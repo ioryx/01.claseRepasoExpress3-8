@@ -1,0 +1,18 @@
+[{
+        "id": 1,
+        "nombre": "auriculares",
+        "precio": 100,
+        "descripcion": "esta es la descripcion"
+    }, {
+        "id": 2,
+        "nombre": "termo",
+        "precio": 200,
+        "descripcion": "esta es la descripcion"
+    }, {
+        "id": 3,
+        "nombre": "plancha",
+        "precio": 400,
+        "descripcion": "esta es la descripcion"
+    }
+
+]
